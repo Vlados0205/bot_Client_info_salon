@@ -3,7 +3,7 @@
 import telebot
 from telebot import types
 # Название телеграм бота Client_info_salonbot
-TOKEN = '2138077446:AAGH-8XZGigI-8s1ztnQPBwapU7GdVqDRq4'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
